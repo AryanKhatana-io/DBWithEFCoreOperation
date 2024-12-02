@@ -1,0 +1,6 @@
+@DBApplicationWithEFCore_HostAddress = http://localhost:5293
+
+GET {{DBApplicationWithEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
